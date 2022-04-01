@@ -3,7 +3,7 @@ Filtro digital de câmera para interação com face do usuário
 
 Antes da execução do arquivo .py:
 
-Utilizar Prompt de comando com os seguintes comandos
+## Utilizar Prompt de comando com os seguintes comandos
 
 - pip install opencv-python
 
@@ -19,16 +19,16 @@ Profº: Fabricio Henrique
 
 Alunos: 
 
-# Guilherme Antônio da Silva Rosa
-
->> Hélder Franklin Dantas de Morais
-
-: Jorge Ribeiro Júnior
-
-:: Lucas de Almeida Aveiro
-
-/ Nathalia Lima de Almeida
-
-// Rafaela Ayumi Koreyasu
+> Guilherme Antônio da Silva Rosa
+> 
+> Hélder Franklin Dantas de Morais
+> 
+> Jorge Ribeiro Júnior
+> 
+> Lucas de Almeida Aveiro
+> 
+> Nathalia Lima de Almeida
+> 
+> Rafaela Ayumi Koreyasu
 
 UNIP - Universidade Paulista - 2022
