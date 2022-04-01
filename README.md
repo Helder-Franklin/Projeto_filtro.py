@@ -19,16 +19,16 @@ Profº: Fabricio Henrique
 
 Alunos: 
 
-> Guilherme Antônio da Silva Rosa
+# Guilherme Antônio da Silva Rosa
 
-> Hélder Franklin Dantas de Morais
+>> Hélder Franklin Dantas de Morais
 
-> Jorge Ribeiro Júnior
+: Jorge Ribeiro Júnior
 
-> Lucas de Almeida Aveiro
+:: Lucas de Almeida Aveiro
 
-> Nathalia Lima de Almeida
+/ Nathalia Lima de Almeida
 
-> Rafaela Ayumi Koreyasu
+// Rafaela Ayumi Koreyasu
 
 UNIP - Universidade Paulista - 2022
