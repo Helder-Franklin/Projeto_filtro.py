@@ -3,10 +3,11 @@ Filtro digital de câmera para interação com face do usuário
 
 Antes da execução do arquivo .py:
 
-> Utilizar Prompt de comando com os seguintes comandos
+Utilizar Prompt de comando com os seguintes comandos
 
-pip install opencv-python
-pip install imutils
+- pip install opencv-python
+
+- pip install imutils
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
